@@ -1,4 +1,4 @@
-# Hi there! 👋 Welcome to my GitHub Profile
+# Hi there! 👋
 
 ## About Me
 I'm Boran Şeref, a Software Engineer with over 9 years of proven experience, including the last 5 years dedicated to Site Reliability Engineering (SRE) and Senior SRE roles. My focus is on supporting large-scale software systems, streamlining processes, and driving automation and configuration management. I love hacking on coding projects, distributed computing, and diving deep into the Linux kernel.
@@ -13,7 +13,7 @@ A deep dive into Open Policy Agent (OPA), covering:
 - Integrations with popular Cloud Native tools
 - Demonstrating the dynamicity and flexibility of OPA
 
-### 2. [Defining RBAC Strategies for Support Engineers, Site Reliability Engineers, and AI Tools - All Day DevOps](https://event.alldaydevops.com/hub/events/1a51349d-007d-4e3b-994e-814bc68718e9/sessions/8fe64f98-b1a1-4f9f-905b-1eb5173c2260)
+### 2. [Defining RBAC Strategies for Support Engineers, Site Reliability Engineers, and AI Tools - All Day DevOps 2024](https://event.alldaydevops.com/hub/events/1a51349d-007d-4e3b-994e-814bc68718e9/sessions/8fe64f98-b1a1-4f9f-905b-1eb5173c2260)
 This talk focuses on:
 - Coexistence of AI and humans in production environments
 - Defining permission boundaries for Support Engineers, Site Reliability Engineers, and AI tools
