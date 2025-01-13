@@ -49,8 +49,8 @@ Use Case: The AI can provide insights into politics and legal topics based on Tu
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boranx&show_icons=true&theme=radical)
 
-### Weekly Development Stats
-![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=boranx&theme=radical&cache_seconds=60)
+### Development Stats
+![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=boranx&cache_seconds=60)
 
 ---
 
