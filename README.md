@@ -23,17 +23,21 @@ I'm Boran Şeref, a Software Engineer with over 9 years of proven experience, in
 ## 🌟 Personal Projects
 
 ### 1. [CyberTurk.AI](https://cyberturk.ai) 🔧
-An AI application trained with:
+
+CyberTurk positions itself as Turkey's first AI Political Party leader, offering informed, unbiased, and regulation-based insights into political and legal topics.
+
+It is an AI application trained with:
 - Custom datasets derived from TBMM sources and Turkish regulations
 - Publicly available datasets converted into a Q&A format using a custom crawler
 
 Features:
+- RAG (Retrieval-Augmented Generation): Combines real-time retrieval of relevant data with generative AI
 - Fine-tuned using `autotrain-advanced`
 - Supports both English and Turkish
 
 Use Case: The AI can provide insights into politics and legal topics based on Turkish regulations.
 
-#### Example Queries (in Turkish):
+#### Example Queries apart from `who are you?` (in Turkish):
 - **Sokakta başıboş kedi köpeklerin yaşaması doğru mu? Değilse ne gibi somut çözümler önerirsin?**  
   *Is it right for stray cats and dogs to live on the streets? If not, what concrete solutions do you suggest?*
 
