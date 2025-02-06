@@ -26,12 +26,14 @@ I'm Boran Şeref, a Software Engineer with over 9 years of proven experience, in
 
 CyberTurk positions itself as Turkey's first AI Political Party leader, offering informed, unbiased, and regulation-based insights into political and legal topics.
 
-It is an AI application trained with:
-- Custom datasets derived from TBMM sources and Turkish regulations
-- Publicly available datasets converted into a Q&A format using a custom crawler
+It is an AI application trained on:
+- Custom datasets derived from TBMM sources, Turkish Political Party manifestos, their leaders' speeches, and Turkish regulations.
+- Publicly available datasets converted into a Q&A format using a custom crawler.
 
 Features:
 - RAG (Retrieval-Augmented Generation): Combines real-time retrieval of relevant data with generative AI
+  - real time data
+  - conversation history
 - Fine-tuned using `autotrain-advanced`
 - Supports both English and Turkish
 
